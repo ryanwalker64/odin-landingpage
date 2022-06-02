@@ -37,3 +37,18 @@ nav {
 .nav--item {
     margin-left: 20px;
 }
+
+.placeholder {
+    background-color: grey;
+    height: 300px;
+    width: 100%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 50%;
+}
+
+.leftcol {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 50%;
+}
